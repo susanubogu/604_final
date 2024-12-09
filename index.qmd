@@ -3,17 +3,26 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/headshot.png
 ---
 
 :::{#me}
 
+My name is Susan Ubogu and I am an accelerated master's student at the University of Massachusetts Amherst, working towards to a MSc in Data Analytics & Computational Social Sciences. I recently received a BBA in Operations & Information Management and a BSc in Computer Science. 
+
+I have always be interested in working at the intersection of technology and business and I have a lot of professional experiences that speak to that. I've held roles at RBC Capital Markets, EY, and more recently an M&A outfit. I'm really interested in seeing how my degree in data analysis will help me in these roles. 
+
 ## Goals
-My name is Susan and my biggest goal is to see if this works.
+I have a couple of big goals for my life but the biggest would be running my own startup someday. I hope to one day be able to use AI to try and reveolutionze either the education space or the financial industry.
 
 ## Education
+I have a Bachelors of Science in Computer Science as well as a Bachelors of Business Administration in Operations & Information Management. 
 
 ## Experience
+I've had internships at EY, RBC Capital Markets, and other financial outfits.
+
+## Resume
+<a href="Susan Ubogu Resume - August.pdf" target="_blank"> My Resume</a>
 
 :::
 

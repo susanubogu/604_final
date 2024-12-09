@@ -2,7 +2,10 @@
 title: "Projects"
 ---
 
-## Project 1
+## Airbnb Report (Linear & Decision Tree Regression)
+This was a project I worked on for my Machine Learning in Business class last semester. We used a dataset from Kaggle that had data for Airbnbs. We performed a linear regression and a descision tree regression to determine which variables had the biggest impact on Airbnb prices. Taking those results we were then able to provide a business recommendation to someone who was considering listing on the platform.
+
+<a href="airbnb.html" target="_blank">Read the Full Report</a>
 
 ## Project 2
 
