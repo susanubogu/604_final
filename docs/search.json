@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "My name is Susan Ubogu and I am an accelerated master’s student at the University of Massachusetts Amherst, working towards to a MSc in Data Analytics & Computational Social Sciences. I recently received a BBA in Operations & Information Management and a BSc in Computer Science.\nI have always be interested in working at the intersection of technology and business and I have a lot of professional experiences that speak to that. I’ve held roles at RBC Capital Markets, EY, and more recently an M&A outfit. I’m really interested in seeing how my degree in data analysis will help me in these roles.\n\n\nI have a couple of big goals for my life but the biggest would be running my own startup someday. I hope to one day be able to use AI to try and reveolutionze either the education space or the financial industry.\n\n\n\nI have a Bachelors of Science in Computer Science as well as a Bachelors of Business Administration in Operations & Information Management.\n\n\n\nI’ve had internships at EY, RBC Capital Markets, and other financial outfits.\n\n\n\n My Resume\nThanks for checking out my web site!"
+    "text": "My name is Susan Ubogu and I am an accelerated master’s student at the University of Massachusetts Amherst, working towards to a MSc in Data Analytics & Computational Social Sciences. I recently received a BBA in Operations & Information Management and a BSc in Computer Science.\nI have always be interested in working at the intersection of technology and business and I have a lot of professional experiences that speak to that. I’ve held roles at RBC Capital Markets, EY, and more recently an M&A outfit. I’m really interested in seeing how my degree in data analysis will help me in these roles.\n\n\nI have a couple of big goals for my life but the biggest would be running my own startup someday. I hope to one day be able to use AI to try and reveolutionze either the education space or the financial industry.\n\n\n\nI have a Bachelors of Science in Computer Science as well as a Bachelors of Business Administration in Operations & Information Management.\n\n\n\nI’ve had internships at EY, RBC Capital Markets, and other financial outfits.\n\n\n\nIf you would like more information on me and my experience, take a look at my resume!\n Resume\nThanks for checking out my web site!"
   },
   {
     "objectID": "index.html#goals",
@@ -32,7 +32,7 @@
     "href": "index.html#resume",
     "title": "About Me",
     "section": "",
-    "text": "My Resume"
+    "text": "If you would like more information on me and my experience, take a look at my resume!\n Resume"
   },
   {
     "objectID": "projects.html",
@@ -49,10 +49,10 @@
     "text": "This was a project I worked on for my Machine Learning in Business class last semester. We used a dataset from Kaggle that had data for Airbnbs. We performed a linear regression and a descision tree regression to determine which variables had the biggest impact on Airbnb prices. Taking those results we were then able to provide a business recommendation to someone who was considering listing on the platform.\nRead the Full Report"
   },
   {
-    "objectID": "projects.html#imdb-movie-analysis",
-    "href": "projects.html#imdb-movie-analysis",
+    "objectID": "projects.html#imdb-movie-analysis-dashboard-presentation",
+    "href": "projects.html#imdb-movie-analysis-dashboard-presentation",
     "title": "Projects",
-    "section": "IMDB Movie Analysis",
-    "text": "IMDB Movie Analysis\nThis is a small personal project that I worked on to build a dashboard that made it easy to pull data about IMDB movies throughout the decades. The first iteration of it takes a look, specifically, at the numbers by decade.\nFor example, the visualization below we are able to see that between 1990 and 200 there was a total of 539,000 movies that were either released or ongoing amounting to a total of around 38 million minutes of run time. We are also able to see that the most popular genre were pieces that were classified as both a drama and a romantic piece of work. And lastly, there were far more pieces that were not classed as adult, a trend we see throughout the decades.\n\n\n\nExample\n\n\nExplore the Dashboard"
+    "section": "IMDB Movie Analysis (Dashboard Presentation)",
+    "text": "IMDB Movie Analysis (Dashboard Presentation)\nThis is a small personal project that I worked on to build a dashboard that made it easy to pull data about IMDB movies throughout the decades. The first iteration of it takes a look, specifically, at the numbers by decade.\nFor example, the visualization below we are able to see that between 1990 and 200 there was a total of 539,000 movies that were either released or ongoing amounting to a total of around 38 million minutes of run time. We are also able to see that the most popular genre were pieces that were classified as both a drama and a romantic piece of work. And lastly, there were far more pieces that were not classed as adult, a trend we see throughout the decades.\n\n\n\nExample\n\n\nExplore the Dashboard"
   }
 ]
