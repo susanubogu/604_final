@@ -49,17 +49,10 @@
     "text": "This was a project I worked on for my Machine Learning in Business class last semester. We used a dataset from Kaggle that had data for Airbnbs. We performed a linear regression and a descision tree regression to determine which variables had the biggest impact on Airbnb prices. Taking those results we were then able to provide a business recommendation to someone who was considering listing on the platform.\nRead the Full Report"
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "projects.html#imdb-movie-analysis",
+    "href": "projects.html#imdb-movie-analysis",
     "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "IMDB Movie Analysis",
+    "text": "IMDB Movie Analysis\nThis is a small personal project that I worked on to build a dashboard that made it easy to pull data about IMDB movies throughout the decades. The first iteration of it takes a look, specifically, at the numbers by decade.\nFor example, the visualization below we are able to see that between 1990 and 200 there was a total of 539,000 movies that were either released or ongoing amounting to a total of around 38 million minutes of run time. We are also able to see that the most popular genre were pieces that were classified as both a drama and a romantic piece of work. And lastly, there were far more pieces that were not classed as adult, a trend we see throughout the decades.\n\n\n\nExample\n\n\nExplore the Dashboard"
   }
 ]

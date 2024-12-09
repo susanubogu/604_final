@@ -7,6 +7,11 @@ This was a project I worked on for my Machine Learning in Business class last se
 
 <a href="airbnb.html" target="_blank">Read the Full Report</a>
 
-## Project 2
+## IMDB Movie Analysis (Dashboard Presentation)
+This is a small personal project that I worked on to build a dashboard that made it easy to pull data about IMDB movies throughout the decades. The first iteration of it takes a look, specifically, at the numbers by decade. 
 
-## Project 3
+For example, the visualization below we are able to see that between 1990 and 200 there was a total of 539,000 movies that were either released or ongoing amounting to a total of around 38 million minutes of run time. We are also able to see that the most popular genre were pieces that were classified as both a drama and a romantic piece of work. And lastly, there were far more pieces that were not classed as adult, a trend we see throughout the decades.
+
+![Example](img/example.png)
+
+<a href="viz.html" target="_blank">Explore the Dashboard</a>
